@@ -40,7 +40,7 @@
     
     
     
- ![Snake animation](https://github.com/JoaoVictorCSousa/JoaoVictorCSousa/blob/output/github-contribution-grid-snake.svg)
+ 
  
     
     
