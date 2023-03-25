@@ -2,6 +2,8 @@
 
 - 👨‍💻Full Stack JavaScript Developer 
 
+- 📚 Computer Science student at IBMR 
+
 - 🏋️‍♂️A gym lover
 
 - 📫 How to reach me: https://www.linkedin.com/in/joaovicarvalho/
