@@ -1,6 +1,6 @@
 👋Hi There👋
 
-- 👨‍💻Full Stack JavaScript Developer 
+- 👨‍💻Full Stack Developer 
 
 - 📚 Computer Science student at IBMR 
 
