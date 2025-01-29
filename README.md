@@ -1,6 +1,6 @@
 👋Hi There👋
 
-- 👨‍💻Full Stack Developer 
+- 👨‍💻 Information Security Intern
 
 - 📚 Computer Science student at IBMR 
 
