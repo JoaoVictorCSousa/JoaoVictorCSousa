@@ -1,6 +1,6 @@
 👋Hi There👋
 
-- 👨‍💻 Information Security Intern at Deloitte
+- 👨‍💻 Information Security Analyst at Deloitte
 
 - 📚 Computer Science student at IBMR 
 
